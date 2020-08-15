@@ -17,7 +17,7 @@ class displayViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        inputCon = textFiledViewController()
+        inputCon = textFiledViewController()//有新功能啦
     }
     
     @IBAction func buttonClicked(_ sender: UIButton) {
